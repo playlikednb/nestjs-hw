@@ -1,0 +1,10 @@
+
+export const DATABASE_PROVIDER = 'SEQUELIZE'
+
+export const USER_PROVIDER = 'USER_REPOSITORY'
+
+export const DEFAULT_VALUES = {
+  DB_DEFAULT_LIMIT: 20,
+  DB_MAX_LIMIT: 50,
+  DB_OFFSET: 0,
+}
